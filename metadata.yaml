@@ -1,0 +1,26 @@
+_repo: Threlkeld-s-Daughter_61414
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bell, James
+    gutenberg_agent_id: '51165'
+    url: http://www.gutenberg.org/2009/agents/51165
+description: ''
+gutenberg_issued: '2020-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- GITenberg
+title: Threlkeld's Daughter
+url: http://www.gutenberg.org/ebooks/61414
